@@ -24,7 +24,7 @@ In this short project, I create a short HTML Document that explains how you can 
 
 ![Stochastics for Stocks](/images/stock.png)
 <div style="display: flex; justify-content: center;">
-  <a href="_pages/GBM_Doc.html" target="_blank">
+  <a href="files/GBM_Doc.html" target="_blank">
     <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin-right: 10px; border: none; border-radius: 5px; cursor: pointer;">
       Full Document
     </button>
